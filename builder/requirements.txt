@@ -6,3 +6,10 @@
 # To learn more, see https://pip.pypa.io/en/stable/reference/requirements-file-format/
 
 runpod~=1.7.0
+onnxruntime-gpu
+opencv-python-headless
+Pillow
+numpy
+pandas
+requests
+huggingface-hub
